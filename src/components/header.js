@@ -17,7 +17,7 @@ function Header() {
     <div className="App">
       <header className="App-header">
         <nav className={`${styles.navbar}`}>
-          <Link to='/' className={`${styles.logo}`}>Muhammadrasul.dev</Link>
+          <Link to='/' className={`${styles.logo} flex`}>Muhammadrasul.<span>Dev</span></Link>
           <ul className={`${styles.navMenu} ${isActive ? styles.active : ''}`}>
             <li onClick={removeActive}>
               <Link to={'/'} className={`${styles.navLink}`}>Home</Link>
