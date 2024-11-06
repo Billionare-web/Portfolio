@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(19, 13, 13);
+}
+
+.boshi{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    margin-top: 100px;
+}
+
+.boshi h2{
+    color: yellow;
+}
+
+.yozuv_rasm{
+    display: flex;
+}
+.yozuv_rasm img{
+    width: 370px;
+    height: 370px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.yozuv1{
+    margin-left: 100px;
+    color: #FFFFFF;
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+.yozuv1 h2{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 30px;
+}
+.yozuv1 h1{
+    margin-top: 30px;
+    font-size: 37px;
+}
+hr{
+    margin-top: 100px;
+}
+footer{
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-family: sans-serif;
+}
+@media (max-width: 400px) {
+    header {
+      padding: 20px 50px;
+    }
+    .logo {
+      z-index: 9;
+    }
+    .logo a {
+      font-size: 20px;
+    }
+    ul {
+      background-color: rgb(19, 13, 13);
+      position: absolute;
+      left: 0;
+      top: -100%;
+      height: 50vh;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 50px;
+      transition: all 0.6s;
+    }
+    .boshi h1{
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .boshi h2{
+        font-size: 15px;
+    }
+    .yozuv_rasm img{
+        width: 360px;
+        height: 360px;
+        margin-left: 20px;
+    }
+    .yozuv1{
+        position: absolute;
+        margin-top: 400px;
+        margin-left: 20px;
+    }
+    .yozuv1 .h2_1{
+        font-size: 15px;
+        margin-top: 100px;
+    }
+    .yozuv1 h1{
+        font-size: 20px;
+        margin-left: 0;
+    }
+    .yozuv1 .h2_2{
+        font-size: 15px;
+    }
+    hr{
+        margin-top: 250px;
+    }
+    footer{
+        font-size: 10px;
+    }
+    }

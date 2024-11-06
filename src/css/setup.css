@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(19, 13, 13);
+}
+.boshi{
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+.boshi h1{
+    font-size: 45px;
+}
+.boshi h2{
+    font-size: 30px;
+    color: yellow;
+}
+.ul2{
+    margin-top: 20px;
+    color: yellow;
+    margin-left: 330px;
+}
+.yozuv h2{
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 300px;
+    font-size: 40px;
+}
+hr{
+    margin-top: 100px;
+}
+footer{
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+@media (max-width: 400px) {
+    header {
+      padding: 20px 50px;
+    }
+    .logo {
+      z-index: 9;
+    }
+    .logo a {
+      font-size: 20px;
+    }
+    .ul1 {
+      background-color: rgb(19, 13, 13);
+      position: absolute;
+      left: 0;
+      top: -100%;
+      height: 50vh;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 50px;
+      transition: all 0.6s;
+    }
+    .ul2{
+        font-size: 10px;
+        margin-left: 150px;
+    }
+    .ul2 li{
+        color: yellow;
+    }
+    .boshi h1{
+        font-size: 20px;
+    }
+    .boshi h2{
+        font-size: 15px;
+    }
+    .yozuv h2{
+        font-size: 20px;
+        margin-left: 100px;
+    }
+    .yozuv ul{
+        color: #FFFFFF;
+    }
+    footer{
+        font-size: 10px;
+    }
+    }
