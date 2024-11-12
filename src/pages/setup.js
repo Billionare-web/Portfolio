@@ -1,4 +1,4 @@
-import React from '../css/setup.css'
+import React from '../css/setup.css';
 
 function setup() {
   return (
@@ -7,8 +7,7 @@ function setup() {
         <h1>Setup</h1>
         <h2>My minimlistic setup</h2>
     </div>
-    <img src="" alt="" />
-    <div className="yozuv">
+    <div className="text">
         <h2>Acer </h2>
         <ul className="ul2">
             <li>AMD A8-700 Radeon R5</li>
@@ -23,7 +22,7 @@ function setup() {
         </ul>
     </div>
     <hr />
-    <footer>
+    <footer className='footer_setup'>
         <h3>Muhammadrasul.Dev 2023 - 2024 | Made with ❤️</h3>
     </footer>
     </div>
