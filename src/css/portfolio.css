@@ -96,7 +96,7 @@ footer{
   margin-bottom: 16px;
   font-family: sans-serif;
 }
-@media (max-width: 380px) {
+@media (max-width: 370px) {
   .Boshi h1{
       font-size: 20px;
   }
@@ -108,7 +108,7 @@ footer{
      margin-left: 20px;
   }
   .portfolio1 img{
-      width: 360px;
+      width: 330px;
       height: 180px;
       margin-left: -1px;
   }
@@ -147,7 +147,7 @@ footer{
       margin-top: 150px;
   }
   .portfolio2 img{
-      width: 360px;
+      width: 330px;
       height: 180px;
       margin-left: 20px;
       margin-top: 40px;

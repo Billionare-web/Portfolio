@@ -52,17 +52,16 @@ footer{
     margin-bottom: 16px;
     font-family: sans-serif;
 }
-@media (max-width: 380px) {
+@media (max-width: 370px) {
     .boshi h1{
         font-size: 20px;
-        margin-top: 30px;
     }
     .boshi h2{
         font-size: 15px;
     }
     .yozuv_rasm img{
-        width: 360px;
-        height: 360px;
+        width: 330px;
+        height: 330px;
         margin-left: 20px;
     }
     .yozuv1{
