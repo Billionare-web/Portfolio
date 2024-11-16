@@ -27,7 +27,7 @@ function home() {
       </div>
       <img src={Image} alt="" />
     </div>
-    <hr />
+    <hr className="hr_home" />
     <footer>
       <h3>Muhammadrasul.Dev 2023 - 2024 | Made with ❤️</h3>
     </footer>

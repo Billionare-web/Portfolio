@@ -96,7 +96,7 @@ footer{
   margin-bottom: 16px;
   font-family: sans-serif;
 }
-@media (max-width: 370px) {
+@media (max-width: 380px) {
   .Boshi h1{
       font-size: 20px;
   }
@@ -175,8 +175,8 @@ footer{
   .yozuv1 button a{
       font-size: 10px;
   }
-  hr{
-      margin-top: -120px;
+  .hr_portfolio{
+      margin-top: 140px;
   }
   footer{
       font-size: 10px;

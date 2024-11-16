@@ -16,7 +16,7 @@ function about() {
             <h2 className='h2_2'>Because, I love build web sites, web apps with <br />Frontend and I enjoy my work.</h2>
         </div>
     </div>
-    <hr />
+    <hr className='hr_about' />
     <footer>
         <h3>Muhammadrasul.Dev 2023 - 2024 | Made with ❤️</h3>
     </footer>

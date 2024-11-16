@@ -21,7 +21,7 @@ function setup() {
             <li>Mouse is simple</li>
         </ul>
     </div>
-    <hr />
+    <hr className="hr_setup" />
     <footer className='footer_setup'>
         <h3>Muhammadrasul.Dev 2023 - 2024 | Made with ❤️</h3>
     </footer>

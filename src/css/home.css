@@ -48,7 +48,7 @@ span{
   padding: 20px 30px;
   border-top-left-radius: 15px;
   border-bottom-right-radius: 15px;
-  margin-top: 50px;
+  margin-top: 30px;
   transition: 0.3s;
 }
 .Yozuv button:hover{
@@ -105,10 +105,9 @@ width: 500px;
 height: 500px;
 margin-top: 100px;
 }
-@media (max-width: 370px) {
+@media (max-width: 380px) {
 header {
 padding: 10px 40px;
-width: 400px;
 }
 .Yozuv{
 position: absolute;
@@ -119,7 +118,7 @@ margin-top: 420px;
 font-size: 27px;
 }
 .Yozuv h3{
-font-size: 16px;
+font-size: 14px;
 }
 .Yozuv button{
 width: 90px;
@@ -142,7 +141,7 @@ height: 330px;
 margin-top: 60px;
 margin-left: 20px;
 }
-hr{
+.hr_home{
 margin-top: 270px;
 }
 footer{

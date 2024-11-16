@@ -11,7 +11,7 @@ body{
     text-align: center;
     color: #FFFFFF;
     font-family: sans-serif;
-    margin-top: 100px;
+    margin-top: 8px;
 }
 
 .boshi h2{
@@ -52,7 +52,7 @@ footer{
     margin-bottom: 16px;
     font-family: sans-serif;
 }
-@media (max-width: 370px) {
+@media (max-width: 380px) {
     .boshi h1{
         font-size: 20px;
     }
@@ -80,8 +80,8 @@ footer{
     .yozuv1 .h2_2{
         font-size: 15px;
     }
-    hr{
-        margin-top: 250px;
+    .hr_about{
+        margin-top: 270px;
     }
     footer{
         font-size: 10px;

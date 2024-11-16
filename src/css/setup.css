@@ -27,7 +27,7 @@ body{
 .text h2{
     color: #FFFFFF;
     margin-top: 30px;
-    margin-left: 100px;
+    margin-left: 300px;
     font-size: 25px;
 }
 hr{
@@ -65,15 +65,12 @@ hr{
     .boshi h2{
         font-size: 15px;
     }
-    .yozuv h2{
+    .text h2{
         font-size: 20px;
         margin-left: 100px;
     }
-    .yozuv ul{
-        color: #FFFFFF;
-    }
     hr{
-        margin-top: -500px;
+        margin-top: -1000px;
     }
     footer{
         font-size: 10px;

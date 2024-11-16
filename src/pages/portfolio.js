@@ -34,7 +34,7 @@ function portfolio() {
         </div>
         <img src={Image2} alt="" />
     </div>
-    <hr />
+    <hr className='hr_portfolio' />
     <footer>
         <h3>Muhammadrasul.Dev 2023 - 2024 | Made with ❤️</h3>
     </footer>
