@@ -8,11 +8,11 @@ import { FaGithub } from "react-icons/fa";
 function portfolio() {
   return (
     <div>
-    <div class="Boshi">
+    <div data-aos="fade-up" data-aos-duration="1000" class="Boshi">
         <h1>Portfolio</h1>
         <h3>Cheek my Portfolio</h3>
     </div>
-    <div className="portfolio1">
+    <div data-aos="fade-up" data-aos-duration="1000" className="portfolio1">
         <img src={Image} alt="" />
         <div className="yozuv">
             <h1>Cherry - online store</h1>

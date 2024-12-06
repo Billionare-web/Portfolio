@@ -3,7 +3,7 @@ import React from '../css/setup.css';
 function setup() {
   return (
     <div>
-    <div className="boshi">
+    <div data-aos="fade-up" data-aos-duration="1000" className="boshi">
         <h1>Setup</h1>
         <h2>My minimlistic setup</h2>
     </div>

@@ -13,10 +13,13 @@ body{
 }
 .Boshi h1{
   color: #FFFFFF;
-  font-weight: 500;
+  font-weight: 700;
+  font-size: 60px;
 }
 .Boshi h3{
   color: yellow;
+  font-size: 40px;
+  font-weight: 500;
 }
 .portfolio1 img{
   height: 300px;

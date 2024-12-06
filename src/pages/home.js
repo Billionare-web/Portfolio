@@ -6,16 +6,18 @@ import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaTelegram } from "react-icons/fa";
 
-function home() {
+function Home() {
   return (
     <div>
 <div className="Jami">
     <div className="Yozuv">
+      <div data-aos="fade-up" data-aos-duration="1000" className="text">
         <h1>Hi, I'm Muhammadrasul!</h1>
         <h3>
             13 y.o Frontend Developer, Frontend mentor, from <br />Uzbekistan,
             Welcome to my personal website
         </h3>
+      </div>
         <button><Link to={"About"}>About me</Link></button>
         <button className="btn2"><Link to={"Portfolio"}>Portfolio</Link></button>
         <div className="i_lar">
@@ -35,4 +37,4 @@ function home() {
   )
 }
 
-export default home
+export default Home

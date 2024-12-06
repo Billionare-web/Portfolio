@@ -4,7 +4,7 @@ import Image from '../components/photo_2024-09-03_21-14-58.jpg'
 function about() {
   return (
     <div>
-    <div className="boshi">
+    <div data-aos="fade-up" data-aos-duration="1000" className="boshi">
         <h1>About</h1>
         <h2>A lot inforation about me.</h2>
     </div>
