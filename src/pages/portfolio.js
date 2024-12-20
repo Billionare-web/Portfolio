@@ -1,6 +1,6 @@
 import React from '../css/portfolio.css';
 import Image2 from "../components/imgs/work-out.jpg";
-import Image from "../components/imgs/olcha.jpg";
+import Image from "../components/imgs/IT-house-online.png";
 import { Link } from 'react-router-dom';
 import { IoLinkSharp } from "react-icons/io5";
 import { FaGithub } from "react-icons/fa";
