@@ -18,7 +18,7 @@ function Home() {
             Welcome to my personal website
         </h3>
       </div>
-        <Link to={"About"}><button>About me</button></Link>
+        <Link to={"About"}><button className='btn_about'>About me</button></Link>
         <Link to={"Portfolio"}><button className='btn2'>Portfolio</button></Link>
         <div className="i_lar">
           <Link target="_blank" to={'https://www.linkedin.com/in/muhammadrasul-samaritdinov-95a10a327/'}><FaLinkedin className='icon' /></Link>
