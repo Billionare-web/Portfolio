@@ -62,6 +62,10 @@ body{
   width: 170px;
   background-color: yellow;
 }
+.icon1{
+  color: black;
+  font-size: 17px;
+}
 .portfolio2{
   display: flex;
   align-items: center;

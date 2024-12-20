@@ -18,8 +18,8 @@ function portfolio() {
             <h1>IT House Online</h1>
             <p>IT House Edu | Dasturlash Kusrlari</p>
             <div className="btnlar">
-                <button className="btn2"><Link target="_blank" to={'https://github.com/Mrweb2011/Olcha.uz'}>Source </Link ><FaGithub className="icon1" /></button>
-                <button className="btn1"><Link target="_blank" to={'https://olcha-uz-pink.vercel.app/'}>Link </Link><IoLinkSharp className="icon1" /></button>
+                <button className="btn2"><Link target="_blank" to={'https://github.com/Billionare-web/IT-House-online'}>Source </Link ><FaGithub className="icon1" /></button>
+                <button className="btn1"><Link target="_blank" to={'https://netlify.com/'}>Link </Link><IoLinkSharp className="icon1" /></button>
             </div>
         </div>
     </div>
