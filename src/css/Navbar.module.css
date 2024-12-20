@@ -20,6 +20,7 @@ a {
   left: -25px;
   display: flex;
   justify-content: space-between;
+  gap: 45px;
   align-items: center;
   width: 100%;
 }
