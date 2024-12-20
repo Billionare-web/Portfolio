@@ -64,7 +64,7 @@ a {
     flex-direction: column;
     gap: 0;
     top: 50px;
-    left: -120%;
+    left: -120px;
     text-align: start;
     width: 380px;
     height: 400px;
