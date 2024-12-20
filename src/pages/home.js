@@ -22,9 +22,9 @@ function Home() {
         <Link to={"Portfolio"}><button className='btn2'>Portfolio</button></Link>
         <div className="i_lar">
           <Link target="_blank" to={'https://www.linkedin.com/in/muhammadrasul-samaritdinov-95a10a327/'}><FaLinkedin className='icon' /></Link>
-          <Link target="_blank" to={'https://github.com/Mrweb2011'}><FaGithub className='icon' /></Link>
-          <Link target="_blank" to={'https://www.instagram.com/webmr_uz'}><FaInstagram className='icon' /></Link>
-          <Link target="_blank" to={'https://t.me/Mrweb_uz'}><FaTelegram className='icon' /></Link>
+          <Link target="_blank" to={'https://github.com/Billionare-web'}><FaGithub className='icon' /></Link>
+          <Link target="_blank" to={'https://www.instagram.com/Billionare_web'}><FaInstagram className='icon' /></Link>
+          <Link target="_blank" to={'https://t.me/Billionare_web'}><FaTelegram className='icon' /></Link>
         </div>
       </div>
       <img src={Image} alt="" />
