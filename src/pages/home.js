@@ -1,5 +1,5 @@
 import React from '../css/home.css'
-import Image from "../components/photo_2024-09-03_21-14-58.jpg";
+import Image from "../components/imgs/photo_2024-09-03_21-14-58.jpg";
 import { Link } from 'react-router-dom';
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
