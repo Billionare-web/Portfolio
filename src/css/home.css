@@ -78,11 +78,13 @@ transition: 0.4s;
 .btn_about{
   font-weight: 600;
   font-size: 20px;
+  color: #FFFFFF;
 }
 .btn2{
 margin-left: 5px;
 font-weight: 600;
 font-size: 20px;
+color: #FFFFFF;
 }
 hr{
 margin-top: 50px;
