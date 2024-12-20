@@ -122,6 +122,9 @@ position: absolute;
 margin-left: 30px;
 margin-top: 420px;
 }
+.btn_about{
+  font-size: 10px;
+}
 .Yozuv h1{
 font-size: 27px;
 }
@@ -129,7 +132,7 @@ font-size: 27px;
 font-size: 14px;
 }
 .Yozuv button{
-width: 90px;
+width: 130px;
 height: 40px;
 padding: 0;
 }
