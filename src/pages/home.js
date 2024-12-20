@@ -18,8 +18,8 @@ function Home() {
             Welcome to my personal website
         </h3>
       </div>
-        <button><Link to={"About"}>About me</Link></button>
-        <button className="btn2"><Link to={"Portfolio"}>Portfolio</Link></button>
+        <Link to={"About"}><button>About me</button></Link>
+        <Link to={"Portfolio"}><button className='btn2'>Portfolio</button></Link>
         <div className="i_lar">
           <Link target="_blank" to={'https://www.linkedin.com/in/muhammadrasul-samaritdinov-95a10a327/'}><FaLinkedin className='icon' /></Link>
           <Link target="_blank" to={'https://github.com/Mrweb2011'}><FaGithub className='icon' /></Link>

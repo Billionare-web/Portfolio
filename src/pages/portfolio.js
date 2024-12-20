@@ -15,8 +15,8 @@ function portfolio() {
     <div data-aos="fade-up" data-aos-duration="1000" className="portfolio1">
         <img src={Image} alt="" />
         <div className="yozuv">
-            <h1>Cherry - online store</h1>
-            <p>Olcha - online store - easy payment throughout Uzbekistan</p>
+            <h1>IT House Online</h1>
+            <p>IT House Edu | Dasturlash Kusrlari</p>
             <div className="btnlar">
                 <button className="btn2"><Link target="_blank" to={'https://github.com/Mrweb2011/Olcha.uz'}>Source </Link ><FaGithub className="icon1" /></button>
                 <button className="btn1"><Link target="_blank" to={'https://olcha-uz-pink.vercel.app/'}>Link </Link><IoLinkSharp className="icon1" /></button>
